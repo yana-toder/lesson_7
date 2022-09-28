@@ -1,0 +1,128 @@
+body {
+	font-family: 'Lato', sans-serif;
+	font-style: normal;
+	line-height: 26px;
+	color: #1E212C;
+	background: url('../img/icon03.png') top right no-repeat fixed;
+}
+
+.header {
+	font-size: 30px;
+	font-weight: 700;
+	margin: 0 auto;
+	border: 2px solid #94bbe9;
+	border-radius: 10px;
+	text-align: center;
+	color: #fff;
+	background: rgb(238,174,202);
+	background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+	padding: 20px 0px 20px 0px;
+	margin: 30px;
+}
+
+.wrapper {
+	padding: 0px 70px 0px 70px;
+	max-width: 900px;
+}
+
+.title {
+font-weight: 900;
+font-size: 46px;
+line-height: 60px;
+margin-bottom: 40px;
+}
+
+.img {
+	max-width: 100%;
+	margin-bottom: 60px;
+}
+
+.subtitle {
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+margin-bottom: 24px;
+}
+
+
+.text {
+	color: #424551;
+}
+
+.text-sapien {
+	margin-bottom: 24px;
+}
+
+.text-morbi {
+	margin-bottom: 48px;
+}
+
+.quote {
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+margin: 0px 0px 48px 60px;
+}
+
+.amet {
+	color: #424551;
+	margin-bottom: 24px;
+}
+
+.item {
+	color: #424551;
+	margin: 0px 0px 4px 32px;
+}
+
+.list {
+	margin-bottom: 24px;
+}
+
+.odio {
+	color: #424551;
+	margin-bottom: 60px;
+}
+
+.footer p {
+	background: #0093E9 linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+	text-align: center;
+	font-size: 30px;
+	font-weight: 700;
+	padding: 40px;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+
+.block1 {
+	max-width: 1000px;
+	height: 554px;
+	background: #85FFBD url('../img/03.jpg') top right no-repeat;
+	margin-bottom: 30px;
+	padding: 20px;
+}
+
+.block2 {
+	max-width: 1000px;
+	height: 554px;
+	background: url('../img/icon1.png') left no-repeat, url('../img/04.jpg') 10%/cover no-repeat;
+	margin-bottom: 40px;
+}
+
+.block3 {
+	max-width: 1000px;
+	height: 500px;
+	background: #FBAB7E url('../img/icon02.png') repeat-x center;
+	margin-bottom: 30px;
+}
+
+.block4 {
+	padding: 30px;
+	color: rgb(59, 231, 85);
+	max-width: 700px;
+	height: 220px;
+	background: url('../img/06.jpg') 0 0 no-repeat local;
+	overflow: auto;
+	margin-bottom: 30px;
+}
+
